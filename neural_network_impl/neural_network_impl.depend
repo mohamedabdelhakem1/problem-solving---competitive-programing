@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548716518 source:c:\users\shiko\desktop\deep learning\implementation\neural_network_impl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<fcntl.h>
+

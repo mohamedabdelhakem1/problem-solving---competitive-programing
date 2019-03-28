@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550674290 source:c:\users\shiko\desktop\deep learning\implementation\a. string task\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+

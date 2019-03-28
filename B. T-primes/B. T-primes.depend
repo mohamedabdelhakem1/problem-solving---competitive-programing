@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551134836 source:c:\users\shiko\desktop\deep learning\implementation\b. t-primes\main.cpp
+	<iostream>
+	<math.h>
+
